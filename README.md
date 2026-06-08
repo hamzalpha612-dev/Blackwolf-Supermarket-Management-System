@@ -1,2 +1,2 @@
-# Blackwolf-Supermarket-Management-System
-(Warehouse management, invoice calculation, cash register report for manager, color organization with header file separately)
+
+I'm Hamza, a C++ programmer. I'm fourteen years old. My dream is to create an independent operating system and work at Google.
